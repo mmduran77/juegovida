@@ -245,7 +245,7 @@ public class TheGameOfLife extends JApplet {
 
 	private void showAbout() {
 		JOptionPane.showMessageDialog(this,
-						"THE GAME OF LIFE 1.0\n\nby Marc Oliveras Galvez, 2017. All rights reserved.\n\nadmin@oligalma.com\n\nhttp://www.oligalma.com",
+						"THE GAME OF LIFE 1.0\n\nby Mauro, 2022. All rights reserved.\n\nadmin@oligalma.com\n\nhttp://www.oligalma.com",
 						"About...", JOptionPane.PLAIN_MESSAGE);
 	}
 
